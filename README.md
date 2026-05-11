@@ -13,9 +13,11 @@ En nuestro caso, el plan que elegiremos será el Plan Personalizado. Existen dos
 Hemos descartado esta opción, debido a que queremos otro servicio de hosting. Por ello, nos hemos decantado por el Plan Personalizado, que tiene un coste total de 560€ al mes, para un tamaño total de 25 empleados. Siendo que vamos a calcularlo en un lapso de 3 años, hemos preferido contratar de forma anual, ya que se hace un pequeño descuento, dando un total de 447.5€ mensuales. Para los tres años, esto dará un total de 16110€.
 
 Coste operativo (Hosting en Google Cloud, AWS, Huawei Cloud o similar).
-Tras observar los precios de los direfentes Hosting, el más adecuado a la empresa con el número de empleado es el Google Cloud. Tiene un coste de 300$ al año, por lo que de aquí a tres años sería un total de 900$.
+Tras observar los precios de los direfentes Hosting, el más adecuado a la empresa con el número de empleado es el Google Cloud. Tiene un coste de 254€ al año, por lo que de aquí a tres años sería un total de 763$.
 
-Para ello, el total de gasto es de 17010€. 
+Asumiendo este coste, hemos decicido que el coste de implementación será de 4000€, ya que por las 100 horas de trabajo se cobrará 40€/hora. Debido que la implementación solo se hará durante el primer año, este coste no se extenderá durante los dos siguientes. 
+
+Para ello, el total de gasto es de 20873€. 
 
 
 ## Diseño de Seguridad RBAC
