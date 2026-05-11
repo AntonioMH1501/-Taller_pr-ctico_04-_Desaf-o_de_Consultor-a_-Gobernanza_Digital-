@@ -28,6 +28,8 @@ Bloque C
 Manual de Despliegue 
 
 ## Bibliografía
-- https://www.rgbconsulting.com/blog/blog-6/cuanto-vale-odoo-64  https://aws.amazon.com/es/pricing/#:~:text=Los%20precios%20de%20AWS%20son,adicionales%20ni%20cuotas%20de%20cancelaci%C3%B3n.
-- https://www.huaweicloud.com/eu/pricing/calculator.html#/ecs 
+[1] RGB Consulting, "¿Cuánto vale Odoo?," RGB Consulting Blog, 2024. [En línea]. Disponible en: https://www.rgbconsulting.com/blog/blog-6/cuanto-vale-odoo-64. [Accedido: 22-may-2024]. 
 
+[2] Amazon Web Services, "Precios de productos y servicios de AWS," AWS, 2024. [En línea]. Disponible en: https://aws.amazon.com/es/pricing/. [Accedido: 22-may-2024]. 
+
+[3] Huawei Cloud, "Pricing Calculator: Elastic Cloud Server (ECS)," Huawei Cloud, 2024. [En línea]. Disponible en: https://www.huaweicloud.com/eu/pricing/calculator.html#/ecs. [Accedido: 22-may-2024]. 
