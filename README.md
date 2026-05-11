@@ -18,9 +18,13 @@ Tras observar los precios de los direfentes Hosting, el más adecuado a la empre
 
 ## Diseño de Seguridad RBAC
 Bloque B
+
 Administrador: Acceso total.
+
 Comercial: Solo ve sus clientes y presupuestos (Record Rules).
+
 Operario de Almacén: Solo ve stock y albaranes de entrada/salida.
+
 Contable: Puede mirar facturas pero no puede modificar el stock.
 
 Documentación de Explotación
