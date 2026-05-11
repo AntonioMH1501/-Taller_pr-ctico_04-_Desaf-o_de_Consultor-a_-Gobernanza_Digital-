@@ -1,8 +1,8 @@
 # -Taller_pr-ctico_04-_Desaf-o_de_Consultor-a_-Gobernanza_Digital-
 
 ## Análisis de Mercado y Selección
-
 Bloque A
+
 Hemos elegido Odoo, basándonos en el perfil de la empresa con 25 empleados, presupuesto ajustado y necesidad de personalización en el etiquetado. La elección de esta plataforma se debe a que la empresa cuenta con un presupuesto limitado, ya que Odoo es Open Source y este presupuesto se podría redirigir a otros sectores. Está act
 
 La empresa que nos ha contratado, "Aceites del Aljarafe S.L." está buscando una propuesta técnica de implantación que cubra los 3 siguientes bloques.
