@@ -17,16 +17,22 @@ Coste operativo (Hosting en Google Cloud, AWS, Huawei Cloud o similar).
 Tras observar los precios de los direfentes Hosting, el más adecuado a la empresa con el número de empleado es el Google Cloud. Tiene un coste de 300$ al año, por lo que de aquí a tres años sería un total de 900$.
 
 
-## Diseño de Seguridad RBAC
+Diseño de Seguridad RBAC
+
 Bloque B
 
 Administrador: Acceso total.
+Tenemos 2 administradores con acceso total. Puede realizar operaciones como crear, leer o consultar, actualizar y borrar o eliminar. Lleva a cabo las funciones que un usuario necesita para crear y gestionar datos.
 
 Comercial: Solo ve sus clientes y presupuestos (Record Rules).
+8 comerciantes, así pueden poner puestas en común de los distintos presupuestos que van saliendo con la mercancía  a la vez que los clientes ofrecen ciertos productos.
 
 Operario de Almacén: Solo ve stock y albaranes de entrada/salida.
+12 en almacén. Podrán apoyarse en la reposiciones de los productos que se queden sin el stock y observar la entrada y salida de los productos. Si ven algún error, lo comunican a los administradores. 
 
 Contable: Puede mirar facturas pero no puede modificar el stock.
+3 contables que pueden llevar a cabo los roles de elaborar presupuestos, registrar pagos e ingresos, pagar facturas y controlar cobros, preparar declaraciones fiscales y crear informes contables y financieros.
+
 
 Documentación de Explotación
 Bloque C
