@@ -28,7 +28,6 @@ Bloque C
 Manual de Despliegue 
 
 ## Bibliografía
-https://www.rgbconsulting.com/blog/blog-6/cuanto-vale-odoo-64 
-https://aws.amazon.com/es/pricing/#:~:text=Los%20precios%20de%20AWS%20son,adicionales%20ni%20cuotas%20de%20cancelaci%C3%B3n.
-https://www.huaweicloud.com/eu/pricing/calculator.html#/ecs 
+- https://www.rgbconsulting.com/blog/blog-6/cuanto-vale-odoo-64  https://aws.amazon.com/es/pricing/#:~:text=Los%20precios%20de%20AWS%20son,adicionales%20ni%20cuotas%20de%20cancelaci%C3%B3n.
+- https://www.huaweicloud.com/eu/pricing/calculator.html#/ecs 
 
